@@ -400,4 +400,5 @@ send_command()	Отправка команды устройству	Нет
 log_event()	Запись в журнал	Нет
 save_settings()	Сохранение настроек	Нет
 load_settings()	Загрузка настроек	Нет
-update_light_visualization()	Обновление отображения	Нет
+date_light_visualization()	Обновление отображения	Нет
+up![69dafad40a5d4192a45f389aae7c4dff](https://github.com/user-attachments/assets/057c12b7-d316-4e1a-bd0e-c7be9b7c17d4)
